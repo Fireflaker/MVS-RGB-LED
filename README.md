@@ -11,6 +11,6 @@ https://easyeda.com/leowzd/MVS_LED-9d47c2d4f0b041e1af55eba076908e89
 ver 2 in development
 will use a esp8266 to control a grid of ws2812b capable of displaying time, text, online information or be used as a mood light.
 
-
+![Pic](https://github.com/Fireflaker/MVS-RGB-LED/blob/master/IMG_20181015_124518.jpg?raw=true)
 ****this project is no longer taken care of****
 
